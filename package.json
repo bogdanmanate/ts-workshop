@@ -1,0 +1,29 @@
+{
+  "name": "ts-workshop",
+  "version": "1.0.0",
+  "description": "Typescript Workshop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bogdanmanate/ts-workshop.git"
+  },
+  "keywords": [
+    "typescript",
+    "workshop"
+  ],
+  "author": "Bogdan Manate",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bogdanmanate/ts-workshop/issues"
+  },
+  "homepage": "https://github.com/bogdanmanate/ts-workshop#readme",
+  "dependencies": {
+    "ramda": "^0.27.0"
+  },
+  "devDependencies": {
+    "@types/ramda": "^0.26.41"
+  }
+}
